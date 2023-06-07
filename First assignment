@@ -1,0 +1,3 @@
+cd [Code-management]
+git init
+git status
